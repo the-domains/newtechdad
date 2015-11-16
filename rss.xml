@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[newtechdad]]></title>
+        <description><![CDATA[newtechdad]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 16 Nov 2015 04:45:30 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[In the apple grove]]></title>
+            <description><![CDATA[<article><h1>In the apple grove</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/76d5ec1b-7f3b-4a06-9026-e1ab9837ff73.jpg"></article>]]></description>
+            <link>undefinedin-the-apple-grove/index.html</link>
+            <guid isPermaLink="false">027c96e6-7391-4a1b-8320-e5bd8967f9b5</guid>
+            <pubDate>Mon, 16 Nov 2015 04:45:17 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

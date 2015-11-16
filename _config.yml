@@ -1,0 +1,23 @@
+name: newtechdad
+favicon: null
+layout_spectrum: 0.02495777467265725
+typography_spectrum: 0.8982861400581896
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.7807339748833328
+  lightness: 0.6864310391247272
+  saturation: 0.9813831248320639
+  rhythmicContrast: 0.02158653293736279
+purpose: []
